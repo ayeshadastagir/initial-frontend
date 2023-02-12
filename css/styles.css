@@ -1,0 +1,56 @@
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  .navbar {
+    padding: 0 0 4.5rem;
+  }
+  .nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+  }
+
+  body{
+    text-align: center;
+  }
+  h1{
+    color: rgb(185, 130, 130);
+    font-family: "Montserrat-Black";
+    padding-top: 35px;
+    margin-left: 10%;
+  }
+  h3{
+    color: rgb(185, 130, 130);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 70px;
+    margin-left: 10%;
+  }
+  p{
+    color: rgb(185, 130, 130);
+    padding-bottom: 0%;
+    margin-left: 10%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .pic{
+    padding-top: 0%;
+    margin-left: 10%;
+    width: 30px;
+    height: 30px;
+  }
+  footer{
+    opacity: 50%;
+    padding-top: 250px;
+    text-align: center;
+  }
+
+.title-image {
+    width: 50%;
+    position: absolute;
+    right: 5%;
+    
+  }
